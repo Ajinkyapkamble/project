@@ -8,6 +8,4 @@
 			
 			driver.findElement(By.id("username")).sendKeys("admin");
 			
-		  driver.findElement(By.cssSelector("input[name='pwd']")).sendKeys("manager");
-		    
-			driver.findElement(By.id("loginButton")).click();
+		 
